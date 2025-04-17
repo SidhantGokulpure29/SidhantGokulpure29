@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gokulpure</h1>
 
 
-- 📫 How to reach me **https://www.linkedin.com/in/sidhant-gokulpure-251606234/**
+- 📫 How to reach me **https://www.linkedin.com/in/sidhant-gokulpure/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
