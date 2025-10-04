@@ -15,7 +15,8 @@ I am passionate about Artificial Intelligence and Machine Learning and aiming to
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sidhant-gokulpure/" target="blank">LinkedIn</a>
+LinkedIn: <a href="https://www.linkedin.com/in/sidhant-gokulpure/">https://www.linkedin.com/in/sidhant-gokulpure/</a><br/>
+Email: <a href="mailto:sidhantgokulpure29@gmail.com">sidhantgokulpure29@gmail.com</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -86,4 +87,14 @@ I am passionate about Artificial Intelligence and Machine Learning and aiming to
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
+</p>
+
+---
+
+<h3 align="left">📚 Currently Learning:</h3>
+<p align="left">
+- Artificial Intelligence & Machine Learning Concepts (Supervised, Unsupervised, Deep Learning)<br/>
+- Data Analytics & Visualization (Python, Pandas, Matplotlib, Seaborn)<br/>
+- Full Stack Web Development (HTML, CSS, JavaScript, React, Node.js, Express)<br/>
+- Cloud & Deployment Basics (AWS, Heroku, GitHub Actions)
 </p>
