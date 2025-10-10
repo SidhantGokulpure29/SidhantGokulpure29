@@ -94,7 +94,7 @@ Email: <a href="mailto:sidhantgokulpure29@gmail.com">sidhantgokulpure29@gmail.co
 <h3 align="left">📚 Currently Learning:</h3>
 <p align="left">
 - Artificial Intelligence & Machine Learning Concepts (Supervised, Unsupervised, Deep Learning)<br/>
-- Data Analytics & Visualization (Python, Pandas, Matplotlib, Seaborn)<br/>
-- Full Stack Web Development (HTML, CSS, JavaScript, React, Node.js, Express)<br/>
-- Cloud & Deployment Basics (AWS, Heroku, GitHub Actions)
+- Data Analytics & Visualization (Python, Pandas, Matplotlib, Seaborn, Tensorflow)<br/>
+- Full Stack Web Development (HTML, CSS, JavaScript, React, Node.js)<br/>
+- Cloud & Deployment Basics (AWS and GitHub Actions)
 </p>
