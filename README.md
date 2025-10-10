@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gokulpure</h1>
 
 <p align="center">
-  Recent B.Tech Graduate from VIT Pune | Aspiring AI/ML Engineer
+  Recent B.Tech Graduate from VIT Pune | Aspiring AI/ML and Data Analysis Engineer
 </p>
 
 ---
