@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gokulpure</h1>
 
 <p align="center">
-  Recent B.Tech Graduate from VIT Pune | Ex - Software Intern @Kemsys Technlogies | Aspiring AI/ML, Data Analysis, Software Development Engineer
+  Recent B.Tech Graduate from VIT Pune | Ex - Software Intern @Kemsys Technlogies | Data Science Intern @Algoanalytics |Aspiring AI/ML, Data Analysis, Software Development Engineer
 </p>
 
 ---
