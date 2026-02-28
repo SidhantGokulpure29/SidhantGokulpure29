@@ -52,6 +52,7 @@ I am passionate about Artificial Intelligence and Machine Learning and aiming to
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
 </a> 
 </p>
+
 ---
 
 <h3 align="left">📚 Currently Learning:</h3>
