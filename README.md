@@ -36,12 +36,6 @@ Email: <a href="mailto:sidhantgokulpure29@gmail.com">sidhantgokulpure29@gmail.co
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-</a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
@@ -63,9 +57,6 @@ Email: <a href="mailto:sidhantgokulpure29@gmail.com">sidhantgokulpure29@gmail.co
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
@@ -81,9 +72,6 @@ Email: <a href="mailto:sidhantgokulpure29@gmail.com">sidhantgokulpure29@gmail.co
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> 
@@ -94,7 +82,7 @@ Email: <a href="mailto:sidhantgokulpure29@gmail.com">sidhantgokulpure29@gmail.co
 <h3 align="left">📚 Currently Learning:</h3>
 <p align="left">
 - Artificial Intelligence & Machine Learning Concepts (Supervised, Unsupervised, Deep Learning)<br/>
-- Data Analytics & Visualization (Python, Pandas, Matplotlib, Seaborn, Tensorflow)<br/>
-- Full Stack Web Development (HTML, CSS, JavaScript, React, Node.js)<br/>
-- Cloud & Deployment Basics (AWS and GitHub Actions)
+- Data Analytics & Visualization (Python, Pandas, Matplotlib, Seaborn, TensorFlow)<br/>
+- LLM Application Development (LangChain, LangGraph, Prompt Engineering, Agents & RAG Systems)<br/>
+- Cloud & Deployment Basics (Azure, AWS, GitHub Actions)
 </p>
