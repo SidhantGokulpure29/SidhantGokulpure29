@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gokulpure</h1>
 
 <p align="center">
-  2025 B.Tech Graduate from VIT Pune | Associate Data Science Consultant @Algoanalytics Pvt. Ltd. | Aspiring AI/ML, Data Science, Software Development Engineer
+  Data Science Consultant @Algoanalytics Pvt. Ltd. | Aspiring AI/ML, Data Science, Software Development Engineer
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cosmic+Sans+MS&size=24&pause=1000&color=A6FFFF&center=true&vCenter=true&width=600&lines=Software+Developer+by+day;Self+Developer+by+night;" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ---
 
@@ -38,6 +45,11 @@ I am passionate about Artificial Intelligence and Machine Learning and aiming to
 - Cloud & Deployment Basics (Azure, AWS, GitHub Actions)
 </p>
 
+---
+### 🐍 Contribution Graph Snake
+<a href="https://git.io/typing-svg">
+ ![Contribution Snake](https://github.com/sidhantgokulpure/sidhantgokulpure/blob/output/snake.svg)
+</a>a>
 ---
 
 <h3 align="left">🌐 Connect With Me</h3>
