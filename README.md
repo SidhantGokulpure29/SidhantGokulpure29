@@ -46,11 +46,6 @@ I am passionate about Artificial Intelligence and Machine Learning and aiming to
 </p>
 
 ---
-### 🐍 Contribution Graph Snake
-<a href="https://git.io/typing-svg">
- ![Contribution Snake](https://github.com/sidhantgokulpure/sidhantgokulpure/blob/output/snake.svg)
-</a>a>
----
 
 <h3 align="left">🌐 Connect With Me</h3>
 <p align="left">
