@@ -30,7 +30,7 @@ I am passionate about Artificial Intelligence and Machine Learning and aiming to
 
 ---
 
-<h3 align="left">📚 Currently Learning:</h3>
+<h3 align="left">📚 My Expertise:</h3>
 <p align="left">
 - Artificial Intelligence & Machine Learning Concepts (Supervised, Unsupervised, Deep Learning)<br/>
 - Data Analytics & Visualization (Python, Pandas, Matplotlib, Seaborn, TensorFlow)<br/>
