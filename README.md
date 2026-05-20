@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sidhant Gokulpure</h1>
 
 <p align="center">
-  Data Science Consultant @Algoanalytics Pvt. Ltd. | Aspiring AI/ML, Data Science, Software Development Engineer
+  Associate Data Scientist @Algoanalytics Pvt. Ltd. | Aspiring AI/ML, Data Science, Software Development Engineer
 </p>
 
 <p align="center">
