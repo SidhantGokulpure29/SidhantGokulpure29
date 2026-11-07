@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cosmic+Sans+MS&size=24&pause=1000&color=A6FFFF&center=true&vCenter=true&width=600&lines=Software+Developer+by+Day;Self+Developer+by+Night;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cosmic+Sans+MS&size=24&pause=1000&color=A6FFFF&center=true&vCenter=true&width=600&lines=Data+Scientist+by+Day;AI+Developer+by+Night;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -45,10 +45,13 @@ I am passionate about Artificial Intelligence and Machine Learning and aiming to
 
 <h3 align="left">📚 My Expertise:</h3>
 <p align="left">
-- Artificial Intelligence & Machine Learning Concepts (Supervised, Unsupervised, Deep Learning)<br/>
-- Data Analytics & Visualization (Python, Pandas, Matplotlib, Seaborn, TensorFlow)<br/>
-- LLM Application Development (LangChain, LangGraph, Prompt Engineering, Agents & RAG Systems)<br/>
-- Cloud & Deployment Basics (Azure, AWS, GitHub Actions)
+- <b>Artificial Intelligence & Machine Learning:</b> Supervised learning, classification, model development, model evaluation, XGBoost, PyTorch, TensorFlow, and scikit-learn.<br/>
+- <b>Data Science & Analytics:</b> Data preprocessing, exploratory data analysis, statistical analysis, model validation, and data visualisation using Python, Pandas, NumPy.<br/>
+- <b>Generative AI & LLM Applications:</b> LLM-powered applications, retrieval-augmented generation (RAG), embeddings, vector search, prompt engineering, and context-grounded response generation.<br/>
+- <b>Agentic AI:</b> LangGraph workflows, multi-agent orchestration, conditional routing, retrieval and reasoning agents, and LLM-as-a-judge evaluation.<br/>
+- <b>Production AI & Cloud:</b> AWS services (ECS, ECR, S3, Step Functions, CloudFront, and Cognito), Docker and GitHub Actions CI/CD.<br/>
+- <b>Applied AI & FDE:</b> Understanding requirements, collaborating with clients and technical teams, integrating services, debugging issues, and taking AI solutions towards deployment.
+
 </p>
 
 ---
